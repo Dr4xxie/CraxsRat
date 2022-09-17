@@ -37,7 +37,7 @@ you are the only responsible for any kind of use of this tool , the developer is
 
 --------------
 
-[TELEGRAM](https://t.me/EvLF_Devz)
+[TELEGRAM](https://t.me/EvLFdev1)
 
 -------------
 
