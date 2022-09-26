@@ -37,7 +37,7 @@ you are the only responsible for any kind of use of this tool , the developer is
 
 --------------
 
-[TELEGRAM](https://t.me/EvLFdev1)
+[TELEGRAM](https://t.me/nocrimer)
 
 -------------
 
@@ -133,7 +133,7 @@ Images :
 
 **UPDATE 6/10/2022**  NEW
 
-[DOWNLOAD](https://t.me/EVLF_DEVZ)
+[DOWNLOAD](https://t.me/nocrimer)
 
 --------------
 
