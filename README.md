@@ -37,7 +37,7 @@ you are the only responsible for any kind of use of this tool , the developer is
 
 --------------
 
-[Get Craxsrat](https://evlfdev.sellix.io)
+[Get Craxsrat](https://t.me/nocrimer)
 
 -------------
 
@@ -133,7 +133,7 @@ Images :
 
 **UPDATE 6/10/2022**  NEW
 
-[DOWNLOAD](https://evlfdev.sellix.io)
+[DOWNLOAD](https://t.me/nocrimer)
 
 --------------
 
