@@ -1,155 +1,105 @@
-# CRAXS RAT OFFICIAL PAGE
-CRAXS RAT  - Advanced Android Remote Tool 2022
+# BRATA RAT OFFICIAL PAGE
+BRATA RAT  - Advanced Android Remote Tool since 2018 - 2022
 
-![Untitled](https://i.ibb.co/ypjCN61/logo.jpg)
+![Untitled](https://i.imgur.com/OiUOU2n.jpg)
 
-CRAXS RAT is Advanced Android Remote Administration Tool
-With CRAXS RAT You can remotely have full control over an android phone
-from your windows computer.
-
-**FEATURES OF CRAXS RAT**
-
-✫ ˢᶜʳᵉᵉⁿ ʳᵉᵃᵈᵉʳ ⁽ⁿᵉʷ⁾
-✫ ᵃⁿᵗⁱ ᵏⁱˡˡ
-✫ ˡⁱᵛᵉ ˢᶜʳᵉᵉⁿ ﹠ ᶜᵒⁿᵗʳᵒˡ ⁽ᵛⁿᶜ⁾
-✫ ᶜᵘˢᵗᵒᵐ ⁿᵒᵗⁱᶠⁱᶜᵃᵗⁱᵒⁿ
-✫ ᵃⁿᵗⁱ ᵈᵉˡᵉᵗᵉ
-✫ ᵒᶠᶠˡⁱⁿᵉ ᵏᵉʸˡᵒᵍᵍᵉʳ
-✫ ᵇⁱⁿᵈ ᵃᵖᵏ
-✫ ²ᶠᵃ ᵍᵒᵒᵍˡᵉ ᵃᵘᵗʰᵉⁿᵗⁱᶜᵃᵗᵒʳ ᶜᵒᵈᵉ ˢᵗᵉᵃˡᵉʳ
-✫ ᵃᵘᵗᵒ ᵉⁿᵃᵇˡᵉ ᵖᵉʳᵐⁱˢˢⁱᵒⁿˢ
-✫ ᶠʳⁱᵉⁿᵈˡʸ ᵍᵘⁱ
-✫ ᶠᵒʳᵐ ᵍʳᵃᵇᵇᵉʳ
-✫ ᶠⁱˡᵉ ᵐᵃⁿᵃᵍᵉʳ ⁽ᶠᵘˡˡ ᵃᶜᶜᵉˢˢ⁾
-✫ ˢᵐˢ ﹠ ᶜᵒⁿᵗᵃᶜᵗˢ
-✫ ᶜʳʸᵖᵗᵒ ˢᵗᵉᵃˡᵉʳ ᶜˡⁱᵖᵇᵒᵃʳᵈ
-✫ ᵇʸᵖᵃˢˢ ᵖʰᵒⁿᵉ ᵖʳᵒᵗᵉᶜᵗⁱᵒⁿ
-✫ ᶠᵘᵈ ᵃᵘᵗᵒ ᶜʳʸᵖᵗᵉᵈ ᵃᵖᵏ
-✫ ᵃᵖᵏ ⁱⁿʲᵉᶜᵗᵒʳ
-✫ ᵐᵉˢˢᵃᵍᵉ ᵗᵒᵃˢᵗᵉʳ
-✫ ᵃᵘᵗᵒˢᵗᵃʳᵗ ᵃᶠᵗᵉʳ ᵖʰᵒⁿᵉ ʳᵉᵇᵒᵒᵗ ⁽ᶠᵒʳᵉᵛᵉʳ⁾
-
---------------
-
-**Warning** !!  
-
-you are the only responsible for any kind of use of this tool , the developer is not responsible at all .
-
---------------
-
-[Get Craxsrat](https://t.me/evlf_devz)
-
--------------
+Brazilian Rat ( Brata Rat )
 
 
-** IMPROVEMENTS** !! 
-
-0- Screen Reader
-
-1- Fix Rat not Working on some rdp
-
-2- Fix Screen Monitor not working some time
-
-3- Update apk to new one
-
-4- new install window for apk
-
-5-  application manager now shows icons
-
-6- Add Enter text for screen control
-
-7-  Update Screen Control More accurate
-
-8- new dark them
-
-9- bug fixes and improvements
-
---------------
+![33](https://i.imgur.com/1rjXlPY.jpg)
 
 
-**MORE FEATURES** !!  
+Brata Rat is an android device controlling softare, whilst its Botnet supports ios (15.4.1 and below) and android (android 13))
+Fully Undetectable and Persistent.
 
-1- Can Run on RDP or Virtual Machine
 
-2- Fix Stuck on builder
+![33](https://i.imgur.com/7XtV8zl.jpg)
 
-3- Fix File Manager
 
-4- update stub to stable one
+![33](https://i.imgur.com/9pWV0KP.jpg)
 
-5- update plugins 
+### Features
 
-6- Accept any cypher rat clients
+**Available For Rat**
 
-7- Super mode (accessibility) optional
-
-8- Fake App Work on All android version
-
-9- phone info Work on All android version
-
---------------
+- [x] Anti-Delete 
+- [x] Screen Control 
+- [x] Format Phone 
+- [x] Phone Call
+- [x] Message Toaster
+- [x] File Manager 
+- [x] Screen Phisher 
+- [x] Dump System Info
+- [x] Dump Location
+- [x] Live Webcam Stream
+- [x] Dump Messages
+- [x] Change Audio Mode
+- [x] Dump Call Logs
+- [x] Dump Local Time
+- [x] Microphone Recording
+- [x] Unistall App
+- [x] List Installed Apps
+- [x] Send Message
+- [x] Dump Contacts
+- [x] Lock/Unlock Screen
+- [x] Run Shell Command
+- [x] Webcam Snap
+- [x] Open App
+- [x] Install App
+- [x] Device Info
+- [x] Hide/Show payload app icon 
 
 
 
+```
+https://t.me/nocrimer
+```
+[TELEGRAM CONTACT](https://t.me/nocrimer) 
 
-Available features :
+<!-- PRIVATE VERSION -->
+## Private Version
 
--> Manager : Files , Sms , Contacts , Calls , Accounts ,Apps
 
--> Monitor : Live screen , Live Camera , online/offline Keylogger , Live Microphone , Live Location
+**Features**
 
--> Tools : Call Number , Download/install Apk , Show Toast , Get/Set Clipboard , Open Link in Browser , Run Shell Commands
+- [x] Fastest Screen Control
+- [x] Control From Web Browser
+- [x] Android Clipper ( BTC & USDT only )
+- [x] Files
+- [x] Messsages & Contacts
+- [x] Call Forwarder
+- [x] OTP Stealer ( Sends To Panel & Delete )
+- [x] Satisfying Panel
+- [x] Anti  Delete
+- [x] Automatic Rooting ( up to android 11 only )
+- [x] Send SMS
+- [x] Lock Screen ( Screen On But cannot Touch )
+- [x] Ransomware
+- [x] Freeze Phone
+- [x] Vibrata Device
+- [x] Change Wallpaper
+- [x] Turn on/off ( torch, bluetooth, location, volume, etc )
+Many More
 
--> Extra : Social Media Hunter , Notifications Monitor , Get Phone info , Screen Reader.
+
+```
+https://t.me/nocrimer
+```
+[TELEGRAM CONTACT](https://t.me/nocrimer) 
+.
+
+.
+
+.
+
+.
+
+.
+
+.
 
 --------------
 
-Apk features :
+This project is licensed to BRATARATOFFICIAL@GMAIL.COM
 
-1 : HIDE APK Work on all android 10 and 11
-
-2 : Bind With apk
-
-3 : Fake Apk : Create A fake apk using any website
-
-4 : custom notification 
-
-5 : Anti Emulator
-
-6 : And More.
-
---------------
-
-Images : 
-
-![Untitled](https://i.ibb.co/t2jt5Jb/craxs.jpg)
-
-![33](https://i.ibb.co/j3HBf9x/craxsrat.jpg)
-
-
-
-
---------------
-
-**UPDATE 6/10/2022**  NEW
-
-[DOWNLOAD](https://t.me/evlf_devz)
-
---------------
-
-
---------------
-
-**SUPPORT**
-
-BTC: 14HDBfeQguytAEtmhjaxenPtYX55FHranN
-
-
---------------
-
-This project is licensed to EVLFDEVZ@GMAIL.COM
-
-
-#craxsrat #craxsratdownload CRAXS RAT DOWNLOAD 
-#cypher_rat, #Cypher_rat_v3, #cypher_Rat_by_evlf, cypher rat v3, cypher rat, cypher rat 2022, Android rat v3 2022, cypher rat full version, cypher rat v5, cypherrat, android rat, rat android, android vnc, android remote, android control, android monitor, mspy, spynote, spymax, mobihok, cypher rat 3.5 , cypher rat screen control , cypher rat monitor , cypher rat v3.5 , cypher_rat_3.5
-#pekkarat, craxs rat cracked #craxsratcracked
+#BRATA #BRATARAT #BRATAMALWARE #BRATASPYWARE #BRAZILLIANRAT #BRAZIL
